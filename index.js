@@ -69,7 +69,7 @@ const generateHTML = ({ columnNames, tableData }) => {
       </style>
     </head>
     <body class="bg-gray-100">
-      <h1 class="text-center text-9xl text-blue-500 mt-10">@Law_Azad402</h1>
+      <h1 class="text-center text-9xl text-blue-500 mt-10">Generated using https://github.com/Syrent/fresh-iau</h1>
       <div class="mt-10">
         <table class="table-auto w-full bg-white shadow-md rounded border-collapse">
           <thead>
