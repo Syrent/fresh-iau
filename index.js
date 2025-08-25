@@ -156,7 +156,6 @@ const generateHTML = ({ columnNames, groupedData }) => {
       </style>
     </head>
     <body class="bg-gray-100">
-      <h1 class="text-7xl text-blue-500 mx-auto text-center pt-12">@law_azad402</h1>
       <div class="mt-10">
         <table class="table-auto w-full bg-white shadow-md rounded border-collapse">
           <thead>
